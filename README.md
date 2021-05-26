@@ -16,7 +16,23 @@ DiScript Ini Kumpulan Scriot Paling Work Dan Terbaru.. Jangan Lewatkan Kesempata
 #SystemX ProX
 #6283143565470
 
-
+### Install Bahan
+```
+pkg update
+pkg upgrade
+pkg install python
+pkg install cowsay
+pkg install git
+git clone https://github.com/Dumai-991/AllTools
+cd AllTools
+bash *.sh
+clear
+git pull
+```
+### Run Script
+```
+python Mulai.py
+```
 
 
 
